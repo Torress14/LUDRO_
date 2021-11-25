@@ -1,0 +1,233 @@
+
+body{
+    margin: 700px;
+    background-image: url("../img/backgrouan1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+     background-attachment: fixed;  
+     background-size:10px; 
+     
+    
+    
+  
+
+    -webkit-background-size:cover ;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+}
+/* .img1{
+    width: 00px;
+    height: 100px;
+} */
+.contenedor1{
+    height: 720px;
+    width: 1260px;
+    /* background: rgb(255, 254, 254);*/
+    grid-column-end: span 3; 
+    margin-top: -650px;
+    margin-left: -690px;
+}
+.contenedor2{
+    position: absolute;
+    height: 520px;
+    width: 320px;
+    grid-column-end: span 3;
+    margin-top: -500px;
+    margin-left: -690px; 
+} 
+.contenedor3{
+    position: absolute;
+    height: 520px;
+    width: 320px;
+    grid-column-end: span 3;
+    margin-top: -370px;
+    margin-left: -690px;
+}
+.contenedor4{
+    position: absolute;
+    height: 520px;
+    width: 320px;
+    grid-column-end: span 3;
+    margin-top: -240px;
+    margin-left: -690px;
+}
+.contenedor5{
+    position: absolute;
+    height: 520px;
+    width: 320px;
+    grid-column-end: span 3;
+    margin-top: -110px;
+    margin-left: -690px;
+}
+
+.img1{
+    width: 209px;
+    height: 209px;
+    background-position: center;
+    position: absolute;
+    margin-left: 500px;
+    border-radius: 685px;
+}
+.icon{
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    margin-top: -35px; 
+    margin-left: -90px; 
+    border-radius: 788px;
+    border-color: blueviolet;
+
+}
+.icon:hover{
+    transition: .4s;
+    cursor: pointer;
+    border-radius: 3px;
+} 
+.butt1{
+    width: 230px;
+    height: 100px;
+    margin-top: 289px;
+    margin-left: 500px;
+    position: absolute;
+    color: #fff;
+    background-color:rgb(15, 10, 10);
+    border-radius: 80px;
+    border-color:#000;
+
+}
+.butt1:hover{
+    font-family: 'Montserrat-Regular';
+    border-radius: 3px;
+    text-align: center;
+    /* background: rgb(138, 179, 138); */
+    border:1px solid rgb(255, 255, 255);
+    color:rgb(255, 251, 251);
+     background-color:#5A0D0E;
+    cursor: pointer;
+    transition: .4s;
+    font-size: 19px;
+    
+}
+.tex1{
+    position: absolute;
+    margin-left: 110px;
+    margin-top: -5px;
+    font-family: 'Playfair Display', serif;
+    
+    
+}
+
+.cardet{
+    width: 35px;
+    height: 35px;
+    padding: 3px;
+     margin-top: -0px;  
+    margin-left: 100px; 
+}
+.cardet2{
+    width: 35px;
+    height: 35px;
+    padding: auto;
+     margin-top: -0px;  
+    margin-left: 290px; 
+}
+.cardet3{
+    width: 35px;
+    height: 35px;
+    padding: auto;
+     margin-top: -40px;  
+    margin-left: 20px; 
+}
+.contenedor-video{
+	position: absolute;
+	overflow:hidden;
+	padding-top:56.25%;
+    margin-top: -1280px;
+    margin-left: -350px;
+	
+}
+/**footer****/
+
+.footer{
+    background-color:#7F0A0A;
+    height: 120px;
+    position:absolute;
+    width: 1283px;
+    /* background: rgb(255, 254, 254);*/
+    margin-top: 500px;
+    margin-left: -700px;
+    
+
+}
+/**** estilo de texto de redes sociales ***/
+.rdscials{
+    color: grey;
+    font-size: 23px;
+    font-family:'Roboto-Regular';
+    font-weight: 600;
+    /* background-color: black; */
+    height: auto;
+    width: 160px;
+    border-radius: 3px;
+    margin-left: 575px;
+    margin-top: 20px;
+    position:absolute;
+    z-index: auto;
+}
+.cardet{
+    width: 30px;
+    height: 30px;
+    margin-top: 50px; 
+    margin-left: 550px; 
+    position: absolute;
+
+    
+}
+.cardet1{
+    width: 35px;
+    height: 35px;
+    margin-top: 50px; 
+    margin-left: 600px; 
+    position: absolute;
+
+    
+}.cardet2{
+    width: 35px;
+    height: 35px;
+    margin-top: 50px; 
+    margin-left: 650px; 
+    position: absolute;
+
+    
+
+}.cardet3{
+    width: 35px;
+    height: 35px;
+    margin-top: 50px; 
+    margin-left: 700px; 
+    position: absolute;
+
+    
+}.cardet4{
+    width: 160px;
+    height: 85px;
+    margin-top: 20px; 
+    margin-left: 30px; 
+    position: absolute;
+
+    
+}
+
+
+/***.Chuba{
+        background-color: #fff;
+        height: 120px;
+        width: 1283px;
+        /* background: rgb(255, 254, 254);
+        margin-top: -px;
+        margin-left: -720px;
+}*/
+
+    
+
+
